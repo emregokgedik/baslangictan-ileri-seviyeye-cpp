@@ -2,6 +2,8 @@
 
 Merhaba! 👋 Bu repo, C++ öğrenmek isteyenler için adım adım hazırlanmış eğitim serisi dosyalarını içeriyor. Her konunun Medium yazısı ve GitHub kodu bağlantısı burada listeleniyor.
 
+Note: Unfortunately, this C++ learning series are not available in English yet :(
+
 ---
 
 ## 📚 Eğitim Konuları
