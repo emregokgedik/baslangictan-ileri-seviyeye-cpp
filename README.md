@@ -30,4 +30,8 @@ Note: Unfortunately, this C++ learning series are not available in English yet :
    - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-fonksiyonlar-ve-scope-kavram%C4%B1-bb6fd83ddf7e)  
    - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/05_functions_scope)
 
+6. **C++’ta Diziler**  
+   - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-diziler-b404419a2120)  
+   - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/06_arrays)
+
 ---
