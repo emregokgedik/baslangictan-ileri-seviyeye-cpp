@@ -1,9 +1,10 @@
 #include <iostream>
 
+//İki değişkenin gerçekten bellekteki değerini (kopyasını değil, kendisini) değiş tokuş eden fonksiyon
 void swapNumbers(int* a, int* b){
-    int temp = *a;
-    *a = *b;
-    *b = temp;
+    int temp = *a; //a'nın gösterdiği değeri temp'te tut
+    *a = *b; // b'nin gösterdiği değeri, a'nın gösterdiği değere ata
+    *b = temp; // temp'i b'nin gösterdiği değere ata
 }
 
 int main(){
