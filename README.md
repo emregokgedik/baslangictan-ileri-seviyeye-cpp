@@ -38,4 +38,8 @@ Note: Unfortunately, this C++ learning series are not available in English yet :
    - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-i%CC%87%C5%9Faret%C3%A7iler-pointers-51224136ac70)  
    - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/07_pointers)
 
+8. **C++'ta Dinamik Bellek Yönetimi (new/delete)**  
+   - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-dinamik-bellek-y%C3%B6netimi-036b73d45f2c?postPublishedType=initial)  
+   - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/08_dynamic_memory)
+
 ---
