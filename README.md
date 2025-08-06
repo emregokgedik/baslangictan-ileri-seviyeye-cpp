@@ -34,4 +34,8 @@ Note: Unfortunately, this C++ learning series are not available in English yet :
    - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-diziler-b404419a2120)  
    - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/06_arrays)
 
+7. **C++'ta İşaretçiler (Pointers)**  
+   - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-i%CC%87%C5%9Faret%C3%A7iler-pointers-51224136ac70)  
+   - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/07_pointers)
+
 ---
