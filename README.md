@@ -42,4 +42,8 @@ Note: Unfortunately, this C++ learning series are not available in English yet :
    - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-dinamik-bellek-y%C3%B6netimi-036b73d45f2c?postPublishedType=initial)  
    - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/08_dynamic_memory)
 
+8. **C++'ta Sınıf ve Yapılar (struct, class) 1/2**  
+   - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-structlar-ve-nesne-y%C3%B6nelimli-programlama-1-2-9d81fce30206)  
+   - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/09_classes_structs)
+
 ---
