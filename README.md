@@ -49,5 +49,9 @@ Note: Unfortunately, this C++ learning series are not available in English yet :
 10. **C++'ta Sınıf ve Yapılar (struct, class) 2/2**  
    - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-structlar-ve-nesne-y%C3%B6nelimli-programlama-2-2-d714c2a03e64)  
    - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/10_classes)
+   
+11. **C++'ta Şablonlar (templates) **  
+   - [📖 Medium Yazısı](https://medium.com/@emregokgedik c-ta-%C5%9Fablonlar-templates-genel-kodlar-yaz%C4%B1yoruz-%EF%B8%8F-b8ac490d7401)  
+   - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/11_templates)
 
 ---
