@@ -51,7 +51,11 @@ Note: Unfortunately, this C++ learning series are not available in English yet :
    - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/10_classes)
    
 11. **C++'ta Şablonlar (templates) **  
-   - [📖 Medium Yazısı](https://medium.com/@emregokgedik c-ta-%C5%9Fablonlar-templates-genel-kodlar-yaz%C4%B1yoruz-%EF%B8%8F-b8ac490d7401)  
+   - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-%C5%9Fablonlar-templates-genel-kodlar-yaz%C4%B1yoruz-%EF%B8%8F-b8ac490d7401)  
    - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/11_templates)
+   
+12. **C++'ta Hata Yönetimi (try/catch) **  
+   - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-g%C3%BC%C3%A7l%C3%BC-kalkan%C4%B1n%C4%B1z-hata-y%C3%B6netimi-try-catch-%EF%B8%8F-a653ce5a9fc0)  
+   - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/12_try_catch_throw)
 
 ---
