@@ -57,5 +57,9 @@ Note: Unfortunately, this C++ learning series are not available in English yet :
 12. **C++'ta Hata Yönetimi (try/catch)**  
    - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-g%C3%BC%C3%A7l%C3%BC-kalkan%C4%B1n%C4%B1z-hata-y%C3%B6netimi-try-catch-%EF%B8%8F-a653ce5a9fc0)  
    - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/12_try_catch_throw)
+   
+13. **C++'ta STL (1/3)**  
+   - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-standart-%C5%9Fablon-k%C3%BCt%C3%BCphanesi-stl-1-3-6483a942a7ca)  
+   - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/13_STL)
 
 ---
