@@ -60,6 +60,8 @@ Note: Unfortunately, this C++ learning series are not available in English yet :
    
 13. **C++'ta STL (1/3)**  
    - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-standart-%C5%9Fablon-k%C3%BCt%C3%BCphanesi-stl-1-3-6483a942a7ca)  
-   - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/13_STL)
-
----
+   - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/13_STL_01)
+   
+14. **C++'ta STL (2/3)**  
+   - [📖 Medium Yazısı](https://medium.com/@emregokgedik/c-ta-standart-%C5%9Fablon-k%C3%BCt%C3%BCphanesi-stl-1-3-6483a942a7ca)  
+   - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/13_STL_02)
