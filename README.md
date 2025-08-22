@@ -68,7 +68,9 @@ Note: Unfortunately, this C++ learning series are not available in English yet :
 
    
 15. **C++'ta STL (3/3)**  
-   - [📖 Medium Yazısı](https://medium.com/@emregokgedik/tekrarlay%C4%B1c%C4%B1lar-iterators-c-ta-veri-yap%C4%B1lar%C4%B1n%C4%B1-gezmek-%EF%B8%8F-7cd5ed871e57)
+   - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/15_STL_03)
 
 16. **C++'ta STL (3/3)**  
+   - [📖 Medium Yazısı](https://medium.com/@emregokgedik/tekrarlay%C4%B1c%C4%B1lar-iterators-c-ta-veri-yap%C4%B1lar%C4%B1n%C4%B1-gezmek-%EF%B8%8F-7cd5ed871e57)
+
    - [💻 GitHub Kodu](https://github.com/emregokgedik/baslangictan-ileri-seviyeye-cpp/tree/main/16_Iterators)
